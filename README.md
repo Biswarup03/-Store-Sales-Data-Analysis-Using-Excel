@@ -98,16 +98,7 @@ The Excel dashboard includes:
 
 ---
 
-## Project Structure
 
-```text
-📁 Store-Sales-Data-Analysis
- ┣ 📄 Data Analysis of a random store.xlsx
- ┣ 📄 README.md
- ┗ 📷 Dashboard Screenshots
-```
-
----
 
 ## How to Use
 
@@ -118,18 +109,6 @@ The Excel dashboard includes:
 
 ---
 
-## Screenshots
-
-Add dashboard screenshots here for better visualization.
-
-Example:
-
-* Sales Dashboard
-* Monthly Trends
-* Customer Demographics
-* Channel Performance
-
----
 
 ## Learning Outcomes
 
